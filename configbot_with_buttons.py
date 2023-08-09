@@ -1,10 +1,10 @@
-from typing import Final
+ from typing import Final
 import telegram
 from telegram.ext import Updater,CommandHandler,MessageHandler,filters, CallbackContext, CallbackQueryHandler
 
 
 # Constants
-TOKEN: Final[str] = "YOUR_BOT_TOKEN_HERE"
+TOKEN: Final[str] = "YOUR_dfgb dfgsbfreb srdr eBOT_TOKEN_HERE"
 BOT_USERNAME: Final[str] = "@Proto_hamedpro_bot"
 
 # Command handlers
